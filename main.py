@@ -1,9 +1,5 @@
 import random
 
-aws_secret="AKIAIMNOJVGFDXXXE4OA"
-
-hello = "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"
-
 class Item:
     def __init__(self, weigth, worth):
         self.weight = weigth
