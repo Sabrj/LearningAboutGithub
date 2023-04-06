@@ -1,5 +1,7 @@
 import random
 
+key = "Hello world"
+
 class Item:
     def __init__(self, weigth, worth):
         self.weight = weigth
