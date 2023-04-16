@@ -12,5 +12,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Sabrj/LearningAboutGithub.git"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0"
   }
 }
