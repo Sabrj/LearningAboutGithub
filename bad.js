@@ -1,5 +1,7 @@
 // MY TOKEN = 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
 
+<package id="System.Text.Encodings.Web" version="4.0.1" />
+
 var config = require("../config"),
     pgp = require('pg-promise')();
 
