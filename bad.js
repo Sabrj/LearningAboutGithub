@@ -1,3 +1,5 @@
+// MY TOKEN = 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
+
 var config = require("../config"),
     pgp = require('pg-promise')();
 
