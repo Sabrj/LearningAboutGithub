@@ -15,5 +15,6 @@
   },
   "devDependencies": {
     "eslint": "^8.38.0"
+    "System.Text.Encodings.Web": "4.0.0"
   }
 }
