@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "eslint": "^8.38.0"
-<<<<<<< HEAD
+
   },
   "bugs": {
     "url": "https://github.com/Sabrj/LearningAboutGithub/issues"
@@ -109,8 +109,6 @@
     "word-wrap": "^1.2.3",
     "wrappy": "^1.0.2",
     "yocto-queue": "^0.1.0"
-=======
     "registry-auth-token": "4.9.1",
->>>>>>> 660214fba8c9a6ccbff515adc1293287aed242d3
   }
 }
